@@ -12,6 +12,7 @@
 
   ## Description
   This is my professional portfolio built with ReactJs and TailwindCSS.
+  Deployed: https://sprightly-llama-f6c8da.netlify.app/
 
   ## Installation instructions
   N/A
